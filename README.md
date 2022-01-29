@@ -1,10 +1,12 @@
 # Landing Page Project
 this is the landing page project 
-## Table of Contents
-
-* [Instructions](#instructions)
 
 
+## The languages used
+
+-HTML
+-css
+-JavaScript
 
 
 
@@ -14,5 +16,6 @@ this is the landing page project
 2-the dynamic active class
 3-the scrolling effect
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
-# landing-project
+# project Description
+In this project we convert the static web page into adynamic web page
+
