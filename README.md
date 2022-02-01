@@ -1,8 +1,17 @@
+
+
 # Landing Page Project
 this is the landing page project 
 
 
+
 ## The languages used
+
+
+This is the landing page project Readme
+
+## The languages used
+
 
 -HTML
 -css
@@ -16,6 +25,8 @@ this is the landing page project
 2-the dynamic active class
 3-the scrolling effect
 
-# project Description
+
+
+# Project Description
 In this project we convert the static web page into adynamic web page
 
